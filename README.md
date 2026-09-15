@@ -1,4 +1,3 @@
-```markdown
 # LetsDefend Security Investigations
 
 This repository documents selected hands-on security investigations completed through LetsDefend.
@@ -60,4 +59,4 @@ One lesson I have been reinforcing throughout these labs is that the presence of
 ## Disclaimer
 
 These investigations were completed in controlled training environments. The writeups intentionally omit challenge answers, flags, and some identifying indicators so that they demonstrate methodology without serving as solution guides.
-```
+
