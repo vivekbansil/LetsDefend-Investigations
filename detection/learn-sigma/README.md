@@ -29,6 +29,7 @@ The provided rule focused on detecting suspicious use of `bitsadmin.exe` for fil
 
 The most useful lesson was understanding that a detection rule is not just a list of suspicious strings.
 
+```text
 A useful rule connects:
 
 log source
@@ -40,7 +41,7 @@ selection criteria
 condition
     ↓
 analyst context
-
+```
 
 The rule should describe behavior worth investigating while also providing enough context to understand why legitimate activity may sometimes match.
 
