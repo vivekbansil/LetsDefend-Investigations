@@ -31,7 +31,6 @@ The most useful lesson was understanding that a detection rule is not just a lis
 
 A useful rule connects:
 
-```text
 log source
     ↓
 observable behavior
@@ -41,7 +40,7 @@ selection criteria
 condition
     ↓
 analyst context
-````
+
 
 The rule should describe behavior worth investigating while also providing enough context to understand why legitimate activity may sometimes match.
 
